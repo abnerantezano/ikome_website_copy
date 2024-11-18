@@ -1,0 +1,31 @@
+/*--------------------------------------------------------------
+# MARCAS
+--------------------------------------------------------------*/
+.marca {
+    background: rgb(61, 60, 60);
+    color: #fff;
+}
+
+.section-title {
+    text-align: center;
+}
+
+.section-title h2 {
+    font-size: 36px; 
+}
+
+.section-title p {
+    font-size: 20px; 
+}
+
+.card {
+    padding: 20px;
+}
+
+.card img {
+    width: 40%;
+}
+
+.card p {
+    text-align: justify;
+}
